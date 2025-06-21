@@ -1,10 +1,11 @@
-Simple GDPS DemonList Template. 
+8Simple GDPS DemonList Template. 
 
 HOW TO USE:
 
-in the body, add "<div class="box">
-        <h3>#1 - Place Holder</h3>
-        
+in the body, add 
+
+         "<div class="box">
+         <h3>#1 - Place Holder</h3>
         <h5>This is a place holder</h5>
             <h5>attempts:1</h5>
             <h5>creator(s):verycoolnameyeah</h5>
