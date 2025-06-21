@@ -2,7 +2,7 @@ Simple GDPS DemonList Template.
 
 HOW TO USE:
 
-in <body>, add "<div class="box">
+in the body, add "<div class="box">
         <h3>#1 - Place Holder</h3>
         
         <h5>This is a place holder</h5>
