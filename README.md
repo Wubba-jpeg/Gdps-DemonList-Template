@@ -1,4 +1,4 @@
-8Simple GDPS DemonList Template. 
+A Simple GDPS DemonList Template. 
 
 HOW TO USE:
 
